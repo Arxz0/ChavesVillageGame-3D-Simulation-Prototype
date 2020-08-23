@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93d20f75be83d4a03918ba4813e88d1c, type: 3}
+  m_Name: New QQ_Node DB
+  m_EditorClassIdentifier: 
+  DataDB: {fileID: 11400000, guid: f631ab9951747274f9c42a583081f6c9, type: 2}
+  NextID: 0
+  Nodes:
+  - ID: 0
+    Type: 0
+    Window:
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    Inputs: []
+    Outputs: []
+    AllowedInputs: []
+    AllowedOutputs: []
+  QuestNodes:
+  - ID: 0
+    Type: 0
+    Window:
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    Inputs: []
+    Outputs: []
+    AllowedInputs: []
+    AllowedOutputs: []
+    Data:
+      ID: 0
+      Name: 
+      NPCName: 
+      Description: 
+      Status: 0
+      RequiredCompleted: 0
+      Completed: 0
+      Tasks: []
+      FirstTasks: 
+  TaskNodes: []
