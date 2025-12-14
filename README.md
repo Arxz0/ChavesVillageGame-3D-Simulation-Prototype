@@ -26,5 +26,6 @@ This repository highlights my ability to write clean, logical code for complex s
 
 ---
 *Demonstration of Object-Oriented Programming (OOP) and Real-Time Rendering logic.*
+
 **Status:** Legacy Project (2020)
 *Developed as a solo study project prior to modern AI assistance tools. It represents a milestone in my self-taught journey into logic and game physics.*
