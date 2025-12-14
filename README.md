@@ -1,6 +1,6 @@
 # 🏙️ 3D Third-Person Simulation Prototype (Unity/C#)
 
-**Project Codename:** RastaChaves (Vila do Chaves 3D Recreation)
+**Project Codename:** The Chaves Village Game (Vila do Chaves/Chavo del Ocho 3D Recreation)
 
 A fully interactive 3D environment developed in **Unity Engine**, featuring third-person character control, NPC AI behaviors, and physics-based interactions. This project serves as a showcase of C# programming logic and game development lifecycle.
 
